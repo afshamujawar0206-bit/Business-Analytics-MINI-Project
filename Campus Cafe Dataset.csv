@@ -1,0 +1,501 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Product,Category,Brand,Outlet,Region,City,Latitude,Longitude,Quantity,Unit_Price,Discount,Sales,Profit
+ORD0398,2026-01-01,CUST049,Sana,Iced Lemon Tea,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,40,0.05,114.0,42.0
+ORD0331,2026-01-03,CUST028,Arjun,Masala Chai,Beverage,BrewRush,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,4,25,0.0,100.0,45.0
+ORD0102,2026-01-05,CUST039,Rahul,Cheese Roll,Bakery,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,45,0.1,40.5,11.25
+ORD0261,2026-01-05,CUST004,Vivaan,Veg Puff,Bakery,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,25,0.1,45.0,11.0
+ORD0445,2026-01-05,CUST010,Sara,Fruit Bowl,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,65,0.0,130.0,39.0
+ORD0019,2026-01-07,CUST049,Zoya,Paneer Wrap,Food,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,75,0.0,225.0,76.5
+ORD0084,2026-01-08,CUST004,Yash,Sprouts Chaat,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,55,0.0,110.0,36.3
+ORD0280,2026-01-08,CUST069,Aditya,Veg Puff,Bakery,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,25,0.05,47.5,13.5
+ORD0297,2026-01-08,CUST032,Zoya,Cold Coffee,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,60,0.15,102.0,32.4
+ORD0378,2026-01-08,CUST061,Riya,Iced Lemon Tea,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,40,0.1,72.0,24.0
+ORD0040,2026-01-09,CUST034,Dev,Fruit Bowl,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,65,0.0,130.0,39.0
+ORD0158,2026-01-09,CUST079,Aisha,Veg Puff,Bakery,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,25,0.1,67.5,16.5
+ORD0174,2026-01-09,CUST061,Sara,Brownie Cup,Dessert,SweetSpot,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,50,0.15,127.5,34.5
+ORD0147,2026-01-10,CUST032,Mira,Cold Coffee,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,60,0.1,108.0,38.4
+ORD0206,2026-01-10,CUST080,Isha,Ice Cream Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,40,0.15,68.0,16.0
+ORD0302,2026-01-11,CUST029,Kabir,Masala Chai,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,4,25,0.15,85.0,30.0
+ORD0449,2026-01-11,CUST034,Rahul,Campus Sandwich,Food,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,55,0.1,99.0,30.8
+ORD0460,2026-01-11,CUST072,Aditya,Veg Puff,Bakery,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,25,0.0,75.0,24.0
+ORD0110,2026-01-12,CUST038,Rahul,Paneer Rice Bowl,Meals,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,105,0.0,315.0,100.8
+ORD0300,2026-01-12,CUST045,Arjun,Brownie Cup,Dessert,SweetSpot,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,50,0.1,135.0,42.0
+ORD0032,2026-01-13,CUST025,Kabir,Veg Puff,Bakery,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,4,25,0.0,100.0,32.0
+ORD0164,2026-01-13,CUST054,Kunal,Cheese Fries,Snacks,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,70,0.05,199.5,67.2
+ORD0307,2026-01-13,CUST047,Kabir,Cold Coffee,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,60,0.15,51.0,16.2
+ORD0112,2026-01-14,CUST011,Aditya,Paneer Wrap,Food,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,75,0.1,202.5,54.0
+ORD0151,2026-01-14,CUST026,Aditya,Veg Biryani Box,Meals,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,95,0.0,190.0,57.0
+ORD0400,2026-01-14,CUST019,Aisha,Fruit Bowl,Healthy,FreshFuel,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,65,0.1,117.0,26.0
+ORD0489,2026-01-15,CUST005,Meera,Cheese Fries,Snacks,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,70,0.1,126.0,37.8
+ORD0018,2026-01-16,CUST054,Isha,Sprouts Chaat,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,55,0.15,187.0,39.6
+ORD0361,2026-01-16,CUST063,Rahul,Cheese Fries,Snacks,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,70,0.1,189.0,56.7
+ORD0157,2026-01-17,CUST059,Isha,Masala Maggi,Food,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,50,0.1,90.0,26.0
+ORD0042,2026-01-18,CUST055,Tanya,Fruit Bowl,Healthy,FreshFuel,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,65,0.0,65.0,19.5
+ORD0345,2026-01-18,CUST020,Rehan,Sprouts Chaat,Healthy,FreshFuel,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,55,0.15,140.25,29.7
+ORD0035,2026-01-19,CUST069,Tanya,Veg Puff,Bakery,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,25,0.05,23.75,6.75
+ORD0121,2026-01-19,CUST062,Vivaan,Paneer Wrap,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,75,0.0,225.0,76.5
+ORD0283,2026-01-19,CUST043,Kabir,Paneer Rice Bowl,Meals,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,105,0.05,299.25,85.05
+ORD0095,2026-01-20,CUST080,Riya,Veg Puff,Bakery,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,25,0.05,23.75,6.75
+ORD0388,2026-01-20,CUST060,Mira,Masala Maggi,Food,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,50,0.0,100.0,36.0
+ORD0067,2026-01-21,CUST002,Vivaan,Masala Maggi,Food,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,50,0.1,90.0,26.0
+ORD0274,2026-01-22,CUST049,Mira,Cheese Fries,Snacks,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,70,0.15,178.5,46.2
+ORD0288,2026-01-22,CUST060,Vivaan,Cheese Roll,Bakery,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,45,0.05,85.5,27.0
+ORD0080,2026-01-24,CUST077,Rehan,Cheese Fries,Snacks,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,5,70,0.1,315.0,94.5
+ORD0115,2026-01-24,CUST080,Aarav,Veg Biryani Box,Meals,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,95,0.05,361.0,95.0
+ORD0172,2026-01-24,CUST030,Rehan,Campus Sandwich,Food,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,55,0.1,99.0,30.8
+ORD0275,2026-01-24,CUST037,Anaya,Campus Sandwich,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,55,0.0,165.0,62.7
+ORD0342,2026-01-24,CUST074,Sara,Cheese Fries,Snacks,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,70,0.05,133.0,44.8
+ORD0490,2026-01-24,CUST012,Aisha,Paneer Rice Bowl,Meals,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,105,0.15,178.5,35.7
+ORD0008,2026-01-25,CUST054,Zoya,Paneer Wrap,Food,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,1,75,0.15,63.75,14.25
+ORD0077,2026-01-26,CUST065,Kabir,Brownie Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,50,0.0,150.0,57.0
+ORD0488,2026-01-27,CUST047,Kunal,Paneer Rice Bowl,Meals,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,105,0.1,189.0,46.2
+ORD0085,2026-01-28,CUST050,Anaya,Ice Cream Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,40,0.0,80.0,28.0
+ORD0399,2026-01-29,CUST060,Aisha,Cold Coffee,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,60,0.1,54.0,19.2
+ORD0424,2026-01-29,CUST033,Kunal,Campus Sandwich,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,55,0.1,49.5,15.4
+ORD0427,2026-01-29,CUST032,Isha,Iced Lemon Tea,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,40,0.0,120.0,48.0
+ORD0200,2026-01-30,CUST075,Arjun,Sprouts Chaat,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,55,0.15,187.0,39.6
+ORD0254,2026-01-30,CUST051,Zoya,Fruit Bowl,Healthy,FreshFuel,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,65,0.15,165.75,29.25
+ORD0119,2026-01-31,CUST036,Rahul,Cheese Roll,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,45,0.0,180.0,63.0
+ORD0094,2026-02-01,CUST006,Aarav,Cheese Roll,Bakery,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,45,0.1,40.5,11.25
+ORD0320,2026-02-01,CUST068,Anaya,Fruit Bowl,Healthy,FreshFuel,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,65,0.15,165.75,29.25
+ORD0154,2026-02-02,CUST070,Anaya,Cheese Fries,Snacks,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,6,70,0.0,420.0,155.4
+ORD0391,2026-02-02,CUST064,Rahul,Campus Sandwich,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,55,0.1,99.0,30.8
+ORD0456,2026-02-02,CUST007,Anaya,Sprouts Chaat,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,6,55,0.0,330.0,108.9
+ORD0282,2026-02-03,CUST008,Kabir,Veg Biryani Box,Meals,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,95,0.0,190.0,57.0
+ORD0343,2026-02-03,CUST056,Isha,Masala Chai,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,25,0.1,45.0,17.5
+ORD0135,2026-02-04,CUST060,Kabir,Paneer Wrap,Food,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,75,0.0,225.0,76.5
+ORD0268,2026-02-04,CUST042,Rehan,Sprouts Chaat,Healthy,FreshFuel,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,55,0.1,49.5,12.65
+ORD0303,2026-02-04,CUST008,Tanya,Brownie Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,4,50,0.0,200.0,76.0
+ORD0367,2026-02-04,CUST048,Vivaan,Masala Chai,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,25,0.1,45.0,17.5
+ORD0376,2026-02-05,CUST046,Yash,Paneer Rice Bowl,Meals,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,105,0.0,105.0,33.6
+ORD0169,2026-02-06,CUST016,Dev,Fruit Bowl,Healthy,FreshFuel,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,65,0.0,130.0,39.0
+ORD0285,2026-02-06,CUST063,Sara,Brownie Cup,Dessert,SweetSpot,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,50,0.15,42.5,11.5
+ORD0011,2026-02-07,CUST079,Riya,Veg Puff,Bakery,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,4,25,0.0,100.0,32.0
+ORD0205,2026-02-07,CUST054,Zoya,Ice Cream Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,40,0.05,38.0,12.0
+ORD0492,2026-02-07,CUST026,Isha,Paneer Wrap,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,75,0.15,127.5,28.5
+ORD0101,2026-02-12,CUST011,Mira,Sprouts Chaat,Healthy,FreshFuel,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,5,55,0.1,247.5,63.25
+ORD0209,2026-02-12,CUST058,Rahul,Cold Coffee,Beverage,BrewRush,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,60,0.15,102.0,32.4
+ORD0305,2026-02-12,CUST013,Zoya,Masala Maggi,Food,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,50,0.15,85.0,21.0
+ORD0330,2026-02-12,CUST080,Kunal,Cheese Fries,Snacks,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,70,0.0,140.0,51.8
+ORD0106,2026-02-13,CUST032,Isha,Paneer Rice Bowl,Meals,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,105,0.0,210.0,67.2
+ORD0111,2026-02-13,CUST070,Anaya,Paneer Wrap,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,4,75,0.0,300.0,102.0
+ORD0022,2026-02-14,CUST040,Kunal,Campus Sandwich,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,55,0.0,110.0,41.8
+ORD0359,2026-02-14,CUST024,Rehan,Ice Cream Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,6,40,0.15,204.0,48.0
+ORD0116,2026-02-15,CUST049,Aarav,Fruit Bowl,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,65,0.0,130.0,39.0
+ORD0433,2026-02-15,CUST080,Mira,Ice Cream Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,4,40,0.15,136.0,32.0
+ORD0180,2026-02-16,CUST017,Aisha,Paneer Wrap,Food,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,75,0.1,135.0,36.0
+ORD0326,2026-02-17,CUST007,Yash,Cheese Roll,Bakery,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,45,0.05,128.25,40.5
+ORD0142,2026-02-18,CUST019,Isha,Brownie Cup,Dessert,SweetSpot,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,50,0.1,45.0,14.0
+ORD0267,2026-02-18,CUST052,Arjun,Fruit Bowl,Healthy,FreshFuel,Library Café,South Mumbai,Mumbai,18.9988,72.8258,4,65,0.0,260.0,78.0
+ORD0131,2026-02-19,CUST068,Sana,Ice Cream Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,5,40,0.0,200.0,70.0
+ORD0002,2026-02-21,CUST074,Kunal,Masala Maggi,Food,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,50,0.1,45.0,13.0
+ORD0079,2026-02-21,CUST067,Dev,Veg Biryani Box,Meals,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,5,95,0.0,475.0,142.5
+ORD0260,2026-02-21,CUST040,Kunal,Masala Chai,Beverage,BrewRush,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,25,0.1,45.0,17.5
+ORD0360,2026-02-22,CUST026,Riya,Masala Maggi,Food,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,4,50,0.0,200.0,72.0
+ORD0232,2026-02-23,CUST045,Arjun,Cold Coffee,Beverage,BrewRush,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,60,0.0,60.0,25.2
+ORD0278,2026-02-23,CUST015,Aisha,Cheese Roll,Bakery,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,45,0.1,121.5,33.75
+ORD0281,2026-02-24,CUST010,Rehan,Iced Lemon Tea,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,40,0.1,108.0,36.0
+ORD0428,2026-02-24,CUST060,Sana,Veg Puff,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,25,0.1,45.0,11.0
+ORD0033,2026-02-25,CUST058,Sara,Fruit Bowl,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,65,0.05,185.25,48.75
+ORD0028,2026-02-27,CUST022,Yash,Iced Lemon Tea,Beverage,BrewRush,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,5,40,0.0,200.0,80.0
+ORD0365,2026-02-27,CUST014,Meera,Paneer Rice Bowl,Meals,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,105,0.0,210.0,67.2
+ORD0470,2026-02-27,CUST069,Kabir,Paneer Rice Bowl,Meals,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,105,0.1,94.5,23.1
+ORD0491,2026-02-27,CUST076,Yash,Cheese Roll,Bakery,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,45,0.0,45.0,15.75
+ORD0047,2026-02-28,CUST069,Aisha,Campus Sandwich,Food,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,55,0.1,148.5,46.2
+ORD0076,2026-02-28,CUST003,Isha,Paneer Wrap,Food,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,75,0.1,202.5,54.0
+ORD0088,2026-02-28,CUST032,Aisha,Sprouts Chaat,Healthy,FreshFuel,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,55,0.1,49.5,12.65
+ORD0163,2026-02-28,CUST016,Yash,Cold Coffee,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,6,60,0.15,306.0,97.2
+ORD0190,2026-02-28,CUST010,Aditya,Sprouts Chaat,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,55,0.15,46.75,9.9
+ORD0478,2026-02-28,CUST041,Sana,Cheese Fries,Snacks,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,70,0.0,70.0,25.9
+ORD0179,2026-03-01,CUST048,Zoya,Cheese Roll,Bakery,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,45,0.0,90.0,31.5
+ORD0104,2026-03-02,CUST047,Zoya,Ice Cream Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,40,0.15,68.0,16.0
+ORD0244,2026-03-02,CUST021,Dev,Veg Puff,Bakery,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,25,0.05,47.5,13.5
+ORD0293,2026-03-02,CUST075,Mira,Paneer Wrap,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,4,75,0.0,300.0,102.0
+ORD0313,2026-03-02,CUST079,Meera,Paneer Rice Bowl,Meals,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,5,105,0.0,525.0,168.0
+ORD0334,2026-03-02,CUST015,Sara,Cheese Roll,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,45,0.1,81.0,22.5
+ORD0344,2026-03-02,CUST063,Tanya,Masala Maggi,Food,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,50,0.0,50.0,18.0
+ORD0218,2026-03-03,CUST055,Anaya,Iced Lemon Tea,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,40,0.1,72.0,24.0
+ORD0306,2026-03-03,CUST061,Vivaan,Iced Lemon Tea,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,5,40,0.0,200.0,80.0
+ORD0429,2026-03-03,CUST041,Tanya,Cheese Roll,Bakery,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,45,0.0,135.0,47.25
+ORD0384,2026-03-04,CUST075,Sana,Fruit Bowl,Healthy,FreshFuel,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,4,65,0.15,221.0,39.0
+ORD0483,2026-03-04,CUST050,Kunal,Cheese Roll,Bakery,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,45,0.1,121.5,33.75
+ORD0153,2026-03-05,CUST060,Sana,Ice Cream Cup,Dessert,SweetSpot,Library Café,South Mumbai,Mumbai,18.9988,72.8258,4,40,0.0,160.0,56.0
+ORD0166,2026-03-05,CUST032,Rehan,Veg Puff,Bakery,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,25,0.1,45.0,11.0
+ORD0060,2026-03-06,CUST054,Kabir,Masala Chai,Beverage,BrewRush,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,25,0.0,50.0,22.5
+ORD0277,2026-03-06,CUST007,Meera,Paneer Wrap,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,5,75,0.0,375.0,127.5
+ORD0005,2026-03-07,CUST059,Arjun,Iced Lemon Tea,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,40,0.0,120.0,48.0
+ORD0211,2026-03-07,CUST077,Yash,Veg Puff,Bakery,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,25,0.1,45.0,11.0
+ORD0425,2026-03-07,CUST057,Isha,Iced Lemon Tea,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,5,40,0.0,200.0,80.0
+ORD0017,2026-03-08,CUST006,Riya,Cold Coffee,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,60,0.1,162.0,57.6
+ORD0309,2026-03-08,CUST031,Rahul,Fruit Bowl,Healthy,FreshFuel,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,65,0.05,61.75,16.25
+ORD0059,2026-03-09,CUST031,Yash,Cheese Roll,Bakery,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,45,0.0,45.0,15.75
+ORD0352,2026-03-09,CUST070,Dev,Paneer Wrap,Food,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,6,75,0.0,450.0,153.0
+ORD0065,2026-03-10,CUST008,Isha,Paneer Wrap,Food,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,75,0.05,285.0,87.0
+ORD0212,2026-03-11,CUST062,Isha,Cold Coffee,Beverage,BrewRush,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,60,0.1,162.0,57.6
+ORD0208,2026-03-12,CUST047,Isha,Ice Cream Cup,Dessert,SweetSpot,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,1,40,0.0,40.0,14.0
+ORD0317,2026-03-12,CUST027,Rahul,Fruit Bowl,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,6,65,0.1,351.0,78.0
+ORD0145,2026-03-13,CUST066,Rehan,Veg Biryani Box,Meals,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,95,0.1,171.0,38.0
+ORD0046,2026-03-14,CUST039,Yash,Fruit Bowl,Healthy,FreshFuel,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,65,0.15,165.75,29.25
+ORD0358,2026-03-15,CUST074,Tanya,Paneer Rice Bowl,Meals,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,105,0.1,283.5,69.3
+ORD0155,2026-03-16,CUST077,Vivaan,Cheese Fries,Snacks,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,70,0.05,133.0,44.8
+ORD0191,2026-03-16,CUST080,Anaya,Cheese Roll,Bakery,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,45,0.0,45.0,15.75
+ORD0248,2026-03-17,CUST037,Zoya,Masala Maggi,Food,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,50,0.15,85.0,21.0
+ORD0130,2026-03-18,CUST027,Kunal,Paneer Wrap,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,75,0.05,213.75,65.25
+ORD0453,2026-03-18,CUST041,Arjun,Veg Biryani Box,Meals,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,95,0.1,256.5,57.0
+ORD0493,2026-03-18,CUST053,Aarav,Sprouts Chaat,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,55,0.1,99.0,25.3
+ORD0138,2026-03-19,CUST027,Rahul,Brownie Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,4,50,0.15,170.0,46.0
+ORD0459,2026-03-20,CUST006,Aditya,Campus Sandwich,Food,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,55,0.05,156.75,54.45
+ORD0089,2026-03-21,CUST046,Yash,Cold Coffee,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,60,0.0,60.0,25.2
+ORD0108,2026-03-21,CUST070,Riya,Sprouts Chaat,Healthy,FreshFuel,Library Café,South Mumbai,Mumbai,18.9988,72.8258,6,55,0.0,330.0,108.9
+ORD0347,2026-03-21,CUST032,Arjun,Veg Puff,Bakery,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,25,0.1,22.5,5.5
+ORD0128,2026-03-22,CUST054,Meera,Masala Maggi,Food,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,50,0.15,127.5,31.5
+ORD0134,2026-03-22,CUST064,Rahul,Cold Coffee,Beverage,BrewRush,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,60,0.1,108.0,38.4
+ORD0441,2026-03-22,CUST070,Tanya,Masala Maggi,Food,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,50,0.05,95.0,31.0
+ORD0036,2026-03-23,CUST065,Riya,Paneer Rice Bowl,Meals,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,5,105,0.0,525.0,168.0
+ORD0071,2026-03-23,CUST015,Yash,Masala Maggi,Food,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,50,0.15,85.0,21.0
+ORD0379,2026-03-23,CUST055,Aditya,Paneer Wrap,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,75,0.0,75.0,25.5
+ORD0407,2026-03-23,CUST009,Arjun,Cheese Roll,Bakery,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,45,0.1,40.5,11.25
+ORD0096,2026-03-24,CUST012,Rehan,Brownie Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,50,0.1,90.0,28.0
+ORD0233,2026-03-24,CUST025,Sana,Cold Coffee,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,60,0.1,162.0,57.6
+ORD0237,2026-03-25,CUST006,Vivaan,Paneer Rice Bowl,Meals,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,4,105,0.0,420.0,134.4
+ORD0395,2026-03-25,CUST030,Anaya,Fruit Bowl,Healthy,FreshFuel,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,65,0.05,123.5,32.5
+ORD0477,2026-03-25,CUST004,Arjun,Brownie Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,4,50,0.05,190.0,66.0
+ORD0476,2026-03-26,CUST029,Sara,Cold Coffee,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,1,60,0.0,60.0,25.2
+ORD0049,2026-03-27,CUST012,Yash,Cheese Fries,Snacks,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,70,0.1,63.0,18.9
+ORD0220,2026-03-27,CUST061,Tanya,Brownie Cup,Dessert,SweetSpot,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,50,0.0,200.0,76.0
+ORD0338,2026-03-27,CUST071,Arjun,Veg Puff,Bakery,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,25,0.05,71.25,20.25
+ORD0024,2026-03-28,CUST067,Aditya,Brownie Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,4,50,0.1,180.0,56.0
+ORD0177,2026-03-28,CUST011,Sara,Paneer Rice Bowl,Meals,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,105,0.0,315.0,100.8
+ORD0348,2026-03-28,CUST025,Kabir,Ice Cream Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,4,40,0.05,152.0,48.0
+ORD0454,2026-03-29,CUST024,Sara,Cold Coffee,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,5,60,0.05,285.0,111.0
+ORD0064,2026-03-30,CUST027,Sana,Cheese Roll,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,45,0.0,135.0,47.25
+ORD0010,2026-03-31,CUST067,Dev,Masala Maggi,Food,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,50,0.1,90.0,26.0
+ORD0185,2026-03-31,CUST067,Kunal,Veg Biryani Box,Meals,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,6,95,0.0,570.0,171.0
+ORD0256,2026-04-01,CUST007,Riya,Masala Maggi,Food,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,50,0.0,100.0,36.0
+ORD0405,2026-04-01,CUST039,Aisha,Paneer Rice Bowl,Meals,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,105,0.05,99.75,28.35
+ORD0475,2026-04-01,CUST043,Sara,Brownie Cup,Dessert,SweetSpot,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,50,0.05,47.5,16.5
+ORD0120,2026-04-02,CUST020,Sana,Veg Biryani Box,Meals,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,95,0.0,95.0,28.5
+ORD0448,2026-04-02,CUST027,Sara,Paneer Wrap,Food,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,75,0.0,150.0,51.0
+ORD0178,2026-04-03,CUST035,Zoya,Fruit Bowl,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,65,0.05,123.5,32.5
+ORD0239,2026-04-04,CUST042,Meera,Paneer Rice Bowl,Meals,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,105,0.15,267.75,53.55
+ORD0284,2026-04-04,CUST054,Mira,Campus Sandwich,Food,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,55,0.15,187.0,50.6
+ORD0481,2026-04-06,CUST033,Isha,Masala Chai,Beverage,BrewRush,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,25,0.0,50.0,22.5
+ORD0062,2026-04-07,CUST065,Aisha,Iced Lemon Tea,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,40,0.0,80.0,32.0
+ORD0255,2026-04-07,CUST036,Sana,Paneer Rice Bowl,Meals,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,105,0.1,283.5,69.3
+ORD0421,2026-04-07,CUST012,Meera,Veg Biryani Box,Meals,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,95,0.15,161.5,28.5
+ORD0070,2026-04-08,CUST077,Zoya,Sprouts Chaat,Healthy,FreshFuel,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,6,55,0.05,313.5,92.4
+ORD0182,2026-04-08,CUST037,Meera,Masala Maggi,Food,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,50,0.1,45.0,13.0
+ORD0463,2026-04-08,CUST066,Tanya,Fruit Bowl,Healthy,FreshFuel,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,65,0.1,175.5,39.0
+ORD0486,2026-04-08,CUST058,Aisha,Ice Cream Cup,Dessert,SweetSpot,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,40,0.0,80.0,28.0
+ORD0487,2026-04-08,CUST017,Arjun,Iced Lemon Tea,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,40,0.1,72.0,24.0
+ORD0381,2026-04-09,CUST006,Mira,Masala Maggi,Food,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,50,0.0,100.0,36.0
+ORD0468,2026-04-10,CUST030,Dev,Paneer Wrap,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,75,0.15,63.75,14.25
+ORD0007,2026-04-11,CUST021,Riya,Cheese Fries,Snacks,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,5,70,0.15,297.5,77.0
+ORD0438,2026-04-11,CUST039,Aisha,Cheese Fries,Snacks,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,70,0.0,210.0,77.7
+ORD0241,2026-04-13,CUST017,Arjun,Sprouts Chaat,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,55,0.1,99.0,25.3
+ORD0253,2026-04-14,CUST018,Dev,Iced Lemon Tea,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,40,0.1,72.0,24.0
+ORD0213,2026-04-15,CUST019,Isha,Fruit Bowl,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,65,0.1,117.0,26.0
+ORD0265,2026-04-16,CUST039,Vivaan,Cold Coffee,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,1,60,0.1,54.0,19.2
+ORD0287,2026-04-17,CUST078,Sana,Masala Maggi,Food,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,50,0.0,100.0,36.0
+ORD0097,2026-04-18,CUST046,Riya,Cold Coffee,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,60,0.0,180.0,75.6
+ORD0299,2026-04-18,CUST059,Sana,Veg Biryani Box,Meals,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,95,0.0,95.0,28.5
+ORD0304,2026-04-18,CUST075,Isha,Cold Coffee,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,5,60,0.15,255.0,81.0
+ORD0450,2026-04-19,CUST043,Sara,Ice Cream Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,40,0.05,114.0,36.0
+ORD0264,2026-04-20,CUST043,Dev,Veg Puff,Bakery,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,25,0.0,50.0,16.0
+ORD0057,2026-04-21,CUST028,Arjun,Veg Puff,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,25,0.05,47.5,13.5
+ORD0215,2026-04-21,CUST079,Sana,Campus Sandwich,Food,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,55,0.1,148.5,46.2
+ORD0207,2026-04-22,CUST073,Meera,Paneer Wrap,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,4,75,0.0,300.0,102.0
+ORD0375,2026-04-22,CUST057,Vivaan,Masala Chai,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,25,0.0,50.0,22.5
+ORD0415,2026-04-22,CUST036,Dev,Paneer Wrap,Food,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,75,0.0,300.0,102.0
+ORD0368,2026-04-23,CUST043,Zoya,Masala Chai,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,25,0.0,75.0,33.75
+ORD0474,2026-04-23,CUST002,Rahul,Sprouts Chaat,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,55,0.0,110.0,36.3
+ORD0187,2026-04-24,CUST063,Kunal,Sprouts Chaat,Healthy,FreshFuel,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,55,0.1,148.5,37.95
+ORD0371,2026-04-24,CUST062,Zoya,Masala Maggi,Food,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,50,0.15,127.5,31.5
+ORD0086,2026-04-25,CUST010,Aditya,Ice Cream Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,40,0.05,76.0,24.0
+ORD0321,2026-04-25,CUST052,Anaya,Ice Cream Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,40,0.0,80.0,28.0
+ORD0465,2026-04-25,CUST074,Aisha,Campus Sandwich,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,55,0.05,104.5,36.3
+ORD0328,2026-04-26,CUST051,Meera,Cold Coffee,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,60,0.05,228.0,88.8
+ORD0455,2026-04-26,CUST041,Rehan,Cold Coffee,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,60,0.0,240.0,100.8
+ORD0053,2026-04-27,CUST020,Vivaan,Brownie Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,50,0.05,47.5,16.5
+ORD0373,2026-04-29,CUST040,Sara,Cheese Roll,Bakery,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,45,0.05,42.75,13.5
+ORD0411,2026-04-29,CUST030,Anaya,Sprouts Chaat,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,55,0.0,165.0,54.45
+ORD0122,2026-05-01,CUST028,Mira,Sprouts Chaat,Healthy,FreshFuel,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,4,55,0.0,220.0,72.6
+ORD0175,2026-05-01,CUST069,Anaya,Cheese Fries,Snacks,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,1,70,0.1,63.0,18.9
+ORD0186,2026-05-01,CUST056,Zoya,Fruit Bowl,Healthy,FreshFuel,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,4,65,0.0,260.0,78.0
+ORD0230,2026-05-01,CUST029,Aarav,Cheese Fries,Snacks,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,70,0.1,63.0,18.9
+ORD0370,2026-05-01,CUST059,Mira,Masala Maggi,Food,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,50,0.1,90.0,26.0
+ORD0137,2026-05-02,CUST061,Aarav,Sprouts Chaat,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,55,0.1,198.0,50.6
+ORD0167,2026-05-03,CUST014,Riya,Cheese Roll,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,45,0.1,121.5,33.75
+ORD0210,2026-05-03,CUST051,Tanya,Campus Sandwich,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,5,55,0.0,275.0,104.5
+ORD0196,2026-05-04,CUST001,Riya,Cheese Fries,Snacks,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,4,70,0.0,280.0,103.6
+ORD0417,2026-05-04,CUST047,Vivaan,Cold Coffee,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,60,0.1,108.0,38.4
+ORD0004,2026-05-05,CUST075,Kunal,Sprouts Chaat,Healthy,FreshFuel,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,55,0.05,104.5,30.8
+ORD0039,2026-05-05,CUST028,Anaya,Paneer Wrap,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,4,75,0.15,255.0,57.0
+ORD0160,2026-05-05,CUST034,Aisha,Cheese Fries,Snacks,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,70,0.0,210.0,77.7
+ORD0310,2026-05-06,CUST046,Aisha,Sprouts Chaat,Healthy,FreshFuel,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,55,0.1,99.0,25.3
+ORD0374,2026-05-07,CUST005,Aditya,Paneer Wrap,Food,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,75,0.15,63.75,14.25
+ORD0055,2026-05-09,CUST080,Aarav,Ice Cream Cup,Dessert,SweetSpot,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,40,0.1,72.0,20.0
+ORD0078,2026-05-09,CUST034,Yash,Cheese Fries,Snacks,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,70,0.15,119.0,30.8
+ORD0279,2026-05-09,CUST044,Sara,Veg Biryani Box,Meals,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,6,95,0.1,513.0,114.0
+ORD0393,2026-05-09,CUST061,Vivaan,Ice Cream Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,6,40,0.0,240.0,84.0
+ORD0420,2026-05-09,CUST065,Tanya,Fruit Bowl,Healthy,FreshFuel,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,6,65,0.0,390.0,117.0
+ORD0149,2026-05-10,CUST021,Aditya,Cheese Fries,Snacks,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,6,70,0.15,357.0,92.4
+ORD0023,2026-05-11,CUST063,Sara,Cold Coffee,Beverage,BrewRush,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,60,0.0,60.0,25.2
+ORD0193,2026-05-11,CUST049,Aisha,Masala Maggi,Food,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,50,0.15,42.5,10.5
+ORD0045,2026-05-12,CUST072,Sara,Brownie Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,50,0.15,127.5,34.5
+ORD0318,2026-05-13,CUST035,Rehan,Cold Coffee,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,60,0.1,108.0,38.4
+ORD0052,2026-05-14,CUST004,Sara,Ice Cream Cup,Dessert,SweetSpot,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,40,0.0,80.0,28.0
+ORD0124,2026-05-14,CUST062,Dev,Cheese Fries,Snacks,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,4,70,0.05,266.0,89.6
+ORD0316,2026-05-14,CUST028,Rehan,Brownie Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,50,0.05,47.5,16.5
+ORD0353,2026-05-14,CUST076,Dev,Campus Sandwich,Food,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,55,0.05,104.5,36.3
+ORD0408,2026-05-14,CUST079,Yash,Brownie Cup,Dessert,SweetSpot,Library Café,South Mumbai,Mumbai,18.9988,72.8258,6,50,0.0,300.0,114.0
+ORD0090,2026-05-15,CUST059,Tanya,Sprouts Chaat,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,55,0.1,148.5,37.95
+ORD0385,2026-05-15,CUST057,Aarav,Paneer Wrap,Food,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,75,0.0,150.0,51.0
+ORD0192,2026-05-16,CUST080,Arjun,Paneer Wrap,Food,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,75,0.15,255.0,57.0
+ORD0259,2026-05-16,CUST002,Isha,Veg Biryani Box,Meals,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,95,0.1,171.0,38.0
+ORD0349,2026-05-16,CUST038,Zoya,Veg Puff,Bakery,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,25,0.1,22.5,5.5
+ORD0129,2026-05-17,CUST080,Aarav,Masala Maggi,Food,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,50,0.0,50.0,18.0
+ORD0050,2026-05-18,CUST052,Anaya,Iced Lemon Tea,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,40,0.0,120.0,48.0
+ORD0462,2026-05-18,CUST023,Rehan,Paneer Wrap,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,75,0.0,150.0,51.0
+ORD0412,2026-05-20,CUST060,Kabir,Campus Sandwich,Food,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,55,0.05,104.5,36.3
+ORD0422,2026-05-20,CUST024,Aisha,Ice Cream Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,6,40,0.05,228.0,72.0
+ORD0041,2026-05-21,CUST054,Riya,Cheese Fries,Snacks,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,70,0.0,280.0,103.6
+ORD0250,2026-05-21,CUST019,Rehan,Masala Chai,Beverage,BrewRush,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,25,0.1,67.5,26.25
+ORD0442,2026-05-21,CUST003,Rehan,Cold Coffee,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,60,0.1,162.0,57.6
+ORD0446,2026-05-21,CUST049,Dev,Cold Coffee,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,60,0.15,51.0,16.2
+ORD0262,2026-05-22,CUST065,Vivaan,Brownie Cup,Dessert,SweetSpot,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,50,0.1,180.0,56.0
+ORD0030,2026-05-23,CUST005,Sana,Brownie Cup,Dessert,SweetSpot,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,50,0.05,47.5,16.5
+ORD0093,2026-05-23,CUST025,Sara,Veg Puff,Bakery,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,25,0.15,63.75,12.75
+ORD0263,2026-05-23,CUST040,Zoya,Cheese Fries,Snacks,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,70,0.05,66.5,22.4
+ORD0480,2026-05-23,CUST031,Riya,Cheese Fries,Snacks,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,70,0.0,210.0,77.7
+ORD0499,2026-05-23,CUST047,Meera,Paneer Rice Bowl,Meals,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,105,0.05,99.75,28.35
+ORD0123,2026-05-24,CUST024,Dev,Masala Maggi,Food,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,5,50,0.15,212.5,52.5
+ORD0109,2026-05-25,CUST059,Sana,Veg Puff,Bakery,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,25,0.0,25.0,8.0
+ORD0181,2026-05-26,CUST001,Arjun,Masala Chai,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,25,0.0,75.0,33.75
+ORD0351,2026-05-26,CUST004,Arjun,Fruit Bowl,Healthy,FreshFuel,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,65,0.1,175.5,39.0
+ORD0497,2026-05-26,CUST034,Arjun,Cheese Roll,Bakery,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,45,0.0,90.0,31.5
+ORD0329,2026-05-27,CUST020,Isha,Campus Sandwich,Food,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,55,0.0,165.0,62.7
+ORD0350,2026-05-27,CUST038,Zoya,Fruit Bowl,Healthy,FreshFuel,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,65,0.05,123.5,32.5
+ORD0044,2026-05-29,CUST057,Tanya,Brownie Cup,Dessert,SweetSpot,Library Café,South Mumbai,Mumbai,18.9988,72.8258,6,50,0.15,255.0,69.0
+ORD0091,2026-05-29,CUST018,Rahul,Masala Maggi,Food,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,50,0.1,135.0,39.0
+ORD0443,2026-05-29,CUST063,Mira,Brownie Cup,Dessert,SweetSpot,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,50,0.0,100.0,38.0
+ORD0387,2026-05-31,CUST014,Rehan,Veg Biryani Box,Meals,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,95,0.1,171.0,38.0
+ORD0003,2026-06-01,CUST043,Sara,Paneer Wrap,Food,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,75,0.0,300.0,102.0
+ORD0198,2026-06-01,CUST030,Riya,Paneer Wrap,Food,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,75,0.0,150.0,51.0
+ORD0197,2026-06-02,CUST051,Kunal,Masala Chai,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,5,25,0.0,125.0,56.25
+ORD0216,2026-06-02,CUST002,Vivaan,Cheese Fries,Snacks,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,70,0.15,59.5,15.4
+ORD0404,2026-06-02,CUST058,Zoya,Cheese Fries,Snacks,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,70,0.0,210.0,77.7
+ORD0315,2026-06-03,CUST064,Riya,Brownie Cup,Dessert,SweetSpot,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,50,0.1,135.0,42.0
+ORD0461,2026-06-03,CUST038,Sana,Campus Sandwich,Food,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,55,0.1,99.0,30.8
+ORD0308,2026-06-04,CUST013,Sana,Sprouts Chaat,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,6,55,0.0,330.0,108.9
+ORD0356,2026-06-04,CUST010,Vivaan,Paneer Wrap,Food,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,75,0.1,67.5,18.0
+ORD0001,2026-06-05,CUST076,Kunal,Veg Puff,Bakery,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,25,0.1,22.5,5.5
+ORD0414,2026-06-05,CUST075,Kabir,Veg Biryani Box,Meals,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,5,95,0.05,451.25,118.75
+ORD0105,2026-06-06,CUST057,Tanya,Cold Coffee,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,5,60,0.1,270.0,96.0
+ORD0222,2026-06-07,CUST033,Vivaan,Cheese Fries,Snacks,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,70,0.0,70.0,25.9
+ORD0494,2026-06-07,CUST061,Anaya,Sprouts Chaat,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,55,0.0,110.0,36.3
+ORD0031,2026-06-08,CUST046,Mira,Brownie Cup,Dessert,SweetSpot,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,50,0.1,45.0,14.0
+ORD0236,2026-06-08,CUST014,Rehan,Paneer Rice Bowl,Meals,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,105,0.15,89.25,17.85
+ORD0252,2026-06-08,CUST001,Rehan,Campus Sandwich,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,55,0.05,52.25,18.15
+ORD0290,2026-06-08,CUST047,Yash,Veg Puff,Bakery,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,25,0.0,50.0,16.0
+ORD0386,2026-06-08,CUST010,Sana,Fruit Bowl,Healthy,FreshFuel,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,65,0.0,195.0,58.5
+ORD0006,2026-06-09,CUST020,Sara,Paneer Rice Bowl,Meals,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,105,0.0,210.0,67.2
+ORD0015,2026-06-09,CUST046,Rehan,Campus Sandwich,Food,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,55,0.0,55.0,20.9
+ORD0016,2026-06-09,CUST009,Vivaan,Masala Maggi,Food,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,50,0.0,100.0,36.0
+ORD0276,2026-06-10,CUST033,Isha,Ice Cream Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,40,0.15,68.0,16.0
+ORD0451,2026-06-10,CUST061,Kunal,Iced Lemon Tea,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,40,0.05,76.0,28.0
+ORD0058,2026-06-11,CUST041,Meera,Veg Puff,Bakery,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,25,0.0,50.0,16.0
+ORD0325,2026-06-11,CUST008,Vivaan,Iced Lemon Tea,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,40,0.15,68.0,20.0
+ORD0364,2026-06-11,CUST079,Aisha,Paneer Wrap,Food,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,75,0.0,225.0,76.5
+ORD0403,2026-06-11,CUST038,Sara,Fruit Bowl,Healthy,FreshFuel,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,65,0.05,185.25,48.75
+ORD0333,2026-06-13,CUST057,Dev,Paneer Rice Bowl,Meals,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,105,0.05,199.5,56.7
+ORD0118,2026-06-14,CUST022,Rahul,Masala Chai,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,25,0.15,63.75,22.5
+ORD0069,2026-06-15,CUST002,Sana,Veg Biryani Box,Meals,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,95,0.1,85.5,19.0
+ORD0224,2026-06-16,CUST061,Vivaan,Paneer Wrap,Food,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,75,0.0,300.0,102.0
+ORD0235,2026-06-16,CUST047,Riya,Masala Maggi,Food,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,50,0.0,150.0,54.0
+ORD0103,2026-06-17,CUST064,Anaya,Cheese Fries,Snacks,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,70,0.0,140.0,51.8
+ORD0413,2026-06-18,CUST043,Dev,Cheese Fries,Snacks,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,1,70,0.05,66.5,22.4
+ORD0484,2026-06-18,CUST048,Arjun,Masala Maggi,Food,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,4,50,0.15,170.0,42.0
+ORD0020,2026-06-19,CUST054,Mira,Cheese Fries,Snacks,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,70,0.15,238.0,61.6
+ORD0141,2026-06-19,CUST061,Kabir,Paneer Rice Bowl,Meals,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,5,105,0.0,525.0,168.0
+ORD0114,2026-06-20,CUST044,Riya,Iced Lemon Tea,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,40,0.15,102.0,30.0
+ORD0362,2026-06-21,CUST033,Dev,Ice Cream Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,40,0.0,80.0,28.0
+ORD0074,2026-06-22,CUST039,Riya,Brownie Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,50,0.1,45.0,14.0
+ORD0392,2026-06-22,CUST006,Vivaan,Paneer Rice Bowl,Meals,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,105,0.15,267.75,53.55
+ORD0473,2026-06-22,CUST070,Aarav,Cheese Fries,Snacks,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,6,70,0.15,357.0,92.4
+ORD0377,2026-06-23,CUST030,Riya,Masala Chai,Beverage,BrewRush,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,25,0.15,21.25,7.5
+ORD0226,2026-06-24,CUST050,Aisha,Campus Sandwich,Food,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,55,0.0,110.0,41.8
+ORD0436,2026-06-24,CUST070,Yash,Ice Cream Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,6,40,0.0,240.0,84.0
+ORD0498,2026-06-24,CUST051,Yash,Paneer Wrap,Food,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,4,75,0.0,300.0,102.0
+ORD0221,2026-06-25,CUST012,Sana,Veg Biryani Box,Meals,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,4,95,0.1,342.0,76.0
+ORD0380,2026-06-25,CUST041,Anaya,Cheese Fries,Snacks,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,70,0.0,140.0,51.8
+ORD0202,2026-06-27,CUST054,Rehan,Masala Maggi,Food,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,50,0.0,100.0,36.0
+ORD0292,2026-06-27,CUST013,Rehan,Ice Cream Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,6,40,0.0,240.0,84.0
+ORD0383,2026-06-27,CUST024,Arjun,Paneer Wrap,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,75,0.05,142.5,43.5
+ORD0397,2026-06-27,CUST001,Tanya,Fruit Bowl,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,65,0.1,234.0,52.0
+ORD0355,2026-06-28,CUST035,Sana,Paneer Wrap,Food,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,75,0.0,150.0,51.0
+ORD0402,2026-06-30,CUST055,Meera,Campus Sandwich,Food,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,55,0.1,148.5,46.2
+ORD0457,2026-06-30,CUST006,Riya,Sprouts Chaat,Healthy,FreshFuel,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,4,55,0.1,198.0,50.6
+ORD0357,2026-07-01,CUST040,Yash,Campus Sandwich,Food,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,55,0.1,49.5,15.4
+ORD0214,2026-07-02,CUST067,Vivaan,Paneer Wrap,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,75,0.05,213.75,65.25
+ORD0061,2026-07-03,CUST026,Anaya,Paneer Wrap,Food,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,75,0.15,191.25,42.75
+ORD0092,2026-07-03,CUST065,Sana,Cheese Roll,Bakery,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,4,45,0.15,153.0,36.0
+ORD0257,2026-07-03,CUST035,Riya,Veg Biryani Box,Meals,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,95,0.05,90.25,23.75
+ORD0289,2026-07-03,CUST079,Sara,Veg Puff,Bakery,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,25,0.0,100.0,32.0
+ORD0319,2026-07-03,CUST050,Rahul,Masala Chai,Beverage,BrewRush,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,25,0.1,67.5,26.25
+ORD0340,2026-07-03,CUST060,Anaya,Iced Lemon Tea,Beverage,BrewRush,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,40,0.1,72.0,24.0
+ORD0452,2026-07-03,CUST065,Kunal,Fruit Bowl,Healthy,FreshFuel,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,65,0.15,165.75,29.25
+ORD0184,2026-07-04,CUST009,Tanya,Brownie Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,50,0.0,100.0,38.0
+ORD0156,2026-07-05,CUST031,Riya,Masala Maggi,Food,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,50,0.15,85.0,21.0
+ORD0199,2026-07-06,CUST030,Isha,Cold Coffee,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,60,0.1,108.0,38.4
+ORD0251,2026-07-07,CUST026,Riya,Fruit Bowl,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,65,0.0,195.0,58.5
+ORD0324,2026-07-07,CUST032,Sana,Ice Cream Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,40,0.1,108.0,30.0
+ORD0013,2026-07-08,CUST037,Mira,Sprouts Chaat,Healthy,FreshFuel,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,55,0.0,165.0,54.45
+ORD0234,2026-07-09,CUST038,Aditya,Cheese Roll,Bakery,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,45,0.15,76.5,18.0
+ORD0369,2026-07-09,CUST007,Vivaan,Ice Cream Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,6,40,0.15,204.0,48.0
+ORD0382,2026-07-10,CUST048,Riya,Cheese Fries,Snacks,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,70,0.0,70.0,25.9
+ORD0467,2026-07-10,CUST060,Dev,Paneer Wrap,Food,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,4,75,0.15,255.0,57.0
+ORD0217,2026-07-11,CUST016,Riya,Veg Biryani Box,Meals,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,95,0.05,270.75,71.25
+ORD0225,2026-07-11,CUST042,Rehan,Cheese Roll,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,45,0.0,135.0,47.25
+ORD0246,2026-07-11,CUST022,Aditya,Cheese Roll,Bakery,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,45,0.05,85.5,27.0
+ORD0140,2026-07-12,CUST026,Sana,Cold Coffee,Beverage,BrewRush,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,60,0.05,57.0,22.2
+ORD0165,2026-07-12,CUST056,Riya,Veg Biryani Box,Meals,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,3,95,0.15,242.25,42.75
+ORD0314,2026-07-12,CUST015,Kabir,Cheese Roll,Bakery,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,45,0.1,40.5,11.25
+ORD0148,2026-07-13,CUST014,Kunal,Fruit Bowl,Healthy,FreshFuel,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,65,0.05,61.75,16.25
+ORD0271,2026-07-13,CUST019,Mira,Campus Sandwich,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,55,0.15,140.25,37.95
+ORD0339,2026-07-13,CUST045,Sana,Veg Biryani Box,Meals,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,95,0.1,256.5,57.0
+ORD0228,2026-07-15,CUST058,Rehan,Campus Sandwich,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,55,0.1,99.0,30.8
+ORD0026,2026-07-16,CUST028,Meera,Sprouts Chaat,Healthy,FreshFuel,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,55,0.0,110.0,36.3
+ORD0410,2026-07-16,CUST029,Rehan,Campus Sandwich,Food,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,55,0.0,165.0,62.7
+ORD0479,2026-07-16,CUST039,Aisha,Cheese Roll,Bakery,SnackLab,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,45,0.0,135.0,47.25
+ORD0496,2026-07-16,CUST021,Aisha,Cheese Fries,Snacks,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,70,0.0,280.0,103.6
+ORD0159,2026-07-17,CUST019,Meera,Sprouts Chaat,Healthy,FreshFuel,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,55,0.1,49.5,12.65
+ORD0037,2026-07-18,CUST053,Aarav,Iced Lemon Tea,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,40,0.0,40.0,16.0
+ORD0107,2026-07-18,CUST075,Isha,Ice Cream Cup,Dessert,SweetSpot,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,40,0.05,114.0,36.0
+ORD0099,2026-07-19,CUST034,Dev,Cold Coffee,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,60,0.1,54.0,19.2
+ORD0270,2026-07-19,CUST009,Aarav,Cheese Fries,Snacks,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,70,0.05,133.0,44.8
+ORD0009,2026-07-20,CUST031,Rahul,Masala Chai,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,25,0.1,67.5,26.25
+ORD0139,2026-07-20,CUST044,Sara,Brownie Cup,Dessert,SweetSpot,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,6,50,0.05,285.0,99.0
+ORD0439,2026-07-20,CUST028,Vivaan,Sprouts Chaat,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,55,0.05,52.25,15.4
+ORD0201,2026-07-21,CUST060,Sara,Masala Chai,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,25,0.0,50.0,22.5
+ORD0409,2026-07-21,CUST053,Rehan,Sprouts Chaat,Healthy,FreshFuel,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,55,0.1,49.5,12.65
+ORD0238,2026-07-23,CUST033,Vivaan,Cheese Roll,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,45,0.05,171.0,54.0
+ORD0243,2026-07-23,CUST033,Aisha,Cheese Fries,Snacks,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,70,0.0,280.0,103.6
+ORD0447,2026-07-23,CUST048,Aditya,Masala Maggi,Food,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,4,50,0.15,170.0,42.0
+ORD0203,2026-07-24,CUST027,Rehan,Sprouts Chaat,Healthy,FreshFuel,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,55,0.05,156.75,46.2
+ORD0401,2026-07-24,CUST031,Kabir,Cheese Roll,Bakery,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,45,0.15,38.25,9.0
+ORD0048,2026-07-25,CUST067,Rehan,Veg Biryani Box,Meals,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,6,95,0.0,570.0,171.0
+ORD0327,2026-07-25,CUST048,Riya,Cheese Roll,Bakery,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,45,0.0,45.0,15.75
+ORD0389,2026-07-25,CUST075,Aisha,Campus Sandwich,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,6,55,0.0,330.0,125.4
+ORD0390,2026-07-25,CUST023,Yash,Campus Sandwich,Food,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,55,0.0,110.0,41.8
+ORD0161,2026-07-26,CUST019,Kunal,Sprouts Chaat,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,55,0.1,99.0,25.3
+ORD0396,2026-07-26,CUST031,Kabir,Ice Cream Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,40,0.05,76.0,24.0
+ORD0500,2026-07-26,CUST034,Aisha,Sprouts Chaat,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,55,0.0,110.0,36.3
+ORD0025,2026-07-27,CUST042,Sara,Veg Puff,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,25,0.1,67.5,16.5
+ORD0068,2026-07-27,CUST048,Tanya,Sprouts Chaat,Healthy,FreshFuel,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,55,0.0,110.0,36.3
+ORD0072,2026-07-27,CUST024,Anaya,Ice Cream Cup,Dessert,SweetSpot,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,40,0.0,120.0,42.0
+ORD0223,2026-07-27,CUST009,Rahul,Campus Sandwich,Food,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,55,0.1,99.0,30.8
+ORD0245,2026-07-27,CUST016,Rehan,Cheese Fries,Snacks,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,70,0.15,238.0,61.6
+ORD0162,2026-07-28,CUST073,Yash,Iced Lemon Tea,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,4,40,0.1,144.0,48.0
+ORD0247,2026-07-28,CUST051,Dev,Sprouts Chaat,Healthy,FreshFuel,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,55,0.0,165.0,54.45
+ORD0323,2026-07-28,CUST048,Vivaan,Campus Sandwich,Food,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,55,0.15,46.75,12.65
+ORD0291,2026-07-29,CUST048,Kabir,Iced Lemon Tea,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,40,0.15,102.0,30.0
+ORD0426,2026-07-29,CUST031,Meera,Paneer Wrap,Food,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,75,0.15,63.75,14.25
+ORD0012,2026-07-30,CUST035,Arjun,Veg Puff,Bakery,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,25,0.0,100.0,32.0
+ORD0194,2026-07-30,CUST041,Aisha,Cold Coffee,Beverage,BrewRush,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,60,0.0,240.0,100.8
+ORD0227,2026-07-30,CUST080,Mira,Paneer Wrap,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,4,75,0.0,300.0,102.0
+ORD0430,2026-07-30,CUST074,Riya,Masala Chai,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,25,0.1,67.5,26.25
+ORD0056,2026-07-31,CUST049,Dev,Sprouts Chaat,Healthy,FreshFuel,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,55,0.1,148.5,37.95
+ORD0146,2026-07-31,CUST043,Anaya,Ice Cream Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,40,0.15,34.0,8.0
+ORD0464,2026-07-31,CUST032,Tanya,Cold Coffee,Beverage,BrewRush,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,60,0.05,114.0,44.4
+ORD0335,2026-08-01,CUST013,Meera,Fruit Bowl,Healthy,FreshFuel,Library Café,South Mumbai,Mumbai,18.9988,72.8258,4,65,0.0,260.0,78.0
+ORD0418,2026-08-01,CUST038,Riya,Masala Chai,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,25,0.1,22.5,8.75
+ORD0152,2026-08-02,CUST062,Zoya,Cold Coffee,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,60,0.05,171.0,66.6
+ORD0394,2026-08-02,CUST019,Rehan,Fruit Bowl,Healthy,FreshFuel,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,65,0.1,117.0,26.0
+ORD0458,2026-08-02,CUST014,Zoya,Cheese Fries,Snacks,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,70,0.1,63.0,18.9
+ORD0082,2026-08-04,CUST064,Tanya,Fruit Bowl,Healthy,FreshFuel,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,65,0.1,117.0,26.0
+ORD0117,2026-08-04,CUST015,Isha,Cheese Fries,Snacks,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,70,0.0,140.0,51.8
+ORD0168,2026-08-04,CUST048,Sana,Veg Puff,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,25,0.1,45.0,11.0
+ORD0176,2026-08-04,CUST036,Yash,Cold Coffee,Beverage,BrewRush,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,60,0.1,108.0,38.4
+ORD0240,2026-08-04,CUST073,Arjun,Sprouts Chaat,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,55,0.05,156.75,46.2
+ORD0298,2026-08-04,CUST050,Kabir,Cold Coffee,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,60,0.1,108.0,38.4
+ORD0495,2026-08-05,CUST002,Meera,Cheese Roll,Bakery,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,4,45,0.05,171.0,54.0
+ORD0066,2026-08-07,CUST060,Vivaan,Masala Chai,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,25,0.15,63.75,22.5
+ORD0100,2026-08-07,CUST024,Anaya,Sprouts Chaat,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,4,55,0.1,198.0,50.6
+ORD0363,2026-08-07,CUST020,Sana,Sprouts Chaat,Healthy,FreshFuel,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,55,0.15,46.75,9.9
+ORD0437,2026-08-07,CUST045,Isha,Paneer Wrap,Food,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,75,0.1,135.0,36.0
+ORD0419,2026-08-08,CUST016,Dev,Iced Lemon Tea,Beverage,BrewRush,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,5,40,0.1,180.0,60.0
+ORD0266,2026-08-09,CUST024,Aisha,Campus Sandwich,Food,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,55,0.15,93.5,25.3
+ORD0286,2026-08-09,CUST072,Zoya,Campus Sandwich,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,4,55,0.05,209.0,72.6
+ORD0249,2026-08-10,CUST063,Sana,Masala Maggi,Food,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,50,0.1,45.0,13.0
+ORD0144,2026-08-11,CUST016,Yash,Veg Biryani Box,Meals,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,5,95,0.05,451.25,118.75
+ORD0432,2026-08-11,CUST058,Rahul,Veg Puff,Bakery,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,25,0.0,50.0,16.0
+ORD0471,2026-08-11,CUST058,Arjun,Veg Biryani Box,Meals,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,95,0.1,256.5,57.0
+ORD0043,2026-08-14,CUST067,Aditya,Sprouts Chaat,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,5,55,0.0,275.0,90.75
+ORD0133,2026-08-14,CUST012,Tanya,Campus Sandwich,Food,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,55,0.1,99.0,30.8
+ORD0171,2026-08-14,CUST009,Sana,Paneer Rice Bowl,Meals,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,2,105,0.1,189.0,46.2
+ORD0296,2026-08-14,CUST075,Kunal,Cheese Roll,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,45,0.0,180.0,63.0
+ORD0332,2026-08-14,CUST011,Kabir,Masala Chai,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,25,0.1,67.5,26.25
+ORD0444,2026-08-14,CUST060,Aisha,Cheese Roll,Bakery,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,45,0.1,40.5,11.25
+ORD0098,2026-08-18,CUST016,Yash,Paneer Rice Bowl,Meals,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,6,105,0.1,567.0,138.6
+ORD0188,2026-08-18,CUST007,Aarav,Cold Coffee,Beverage,BrewRush,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,60,0.15,153.0,48.6
+ORD0295,2026-08-18,CUST029,Rahul,Cold Coffee,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,60,0.05,57.0,22.2
+ORD0431,2026-08-18,CUST035,Sara,Cold Coffee,Beverage,BrewRush,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,60,0.1,108.0,38.4
+ORD0127,2026-08-19,CUST048,Arjun,Ice Cream Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,40,0.15,68.0,16.0
+ORD0311,2026-08-20,CUST028,Meera,Fruit Bowl,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,65,0.1,117.0,26.0
+ORD0170,2026-08-21,CUST074,Arjun,Cheese Roll,Bakery,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,45,0.1,40.5,11.25
+ORD0435,2026-08-21,CUST030,Riya,Veg Puff,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,25,0.1,45.0,11.0
+ORD0423,2026-08-22,CUST008,Sara,Masala Chai,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,1,25,0.1,22.5,8.75
+ORD0466,2026-08-22,CUST080,Dev,Fruit Bowl,Healthy,FreshFuel,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,65,0.05,185.25,48.75
+ORD0021,2026-08-25,CUST057,Aarav,Paneer Wrap,Food,CampusBite,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,6,75,0.15,382.5,85.5
+ORD0136,2026-08-25,CUST051,Isha,Brownie Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,50,0.0,100.0,38.0
+ORD0183,2026-08-25,CUST005,Arjun,Campus Sandwich,Food,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,4,55,0.0,220.0,83.6
+ORD0143,2026-08-26,CUST005,Arjun,Paneer Wrap,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,75,0.0,75.0,25.5
+ORD0472,2026-08-26,CUST009,Mira,Cheese Fries,Snacks,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,70,0.1,189.0,56.7
+ORD0258,2026-08-27,CUST066,Vivaan,Cheese Fries,Snacks,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,1,70,0.0,70.0,25.9
+ORD0273,2026-08-28,CUST056,Aditya,Paneer Rice Bowl,Meals,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,4,105,0.15,357.0,71.4
+ORD0073,2026-08-29,CUST039,Zoya,Campus Sandwich,Food,CampusBite,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,55,0.1,49.5,15.4
+ORD0173,2026-08-30,CUST019,Vivaan,Veg Puff,Bakery,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,1,25,0.1,22.5,5.5
+ORD0242,2026-08-30,CUST002,Yash,Cheese Roll,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,45,0.05,85.5,27.0
+ORD0336,2026-08-30,CUST036,Sara,Campus Sandwich,Food,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,4,55,0.1,198.0,61.6
+ORD0229,2026-08-31,CUST047,Zoya,Masala Maggi,Food,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,50,0.1,45.0,13.0
+ORD0416,2026-08-31,CUST007,Sana,Veg Puff,Bakery,SnackLab,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,6,25,0.0,150.0,48.0
+ORD0034,2026-09-01,CUST026,Rehan,Masala Maggi,Food,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,50,0.0,150.0,54.0
+ORD0051,2026-09-01,CUST056,Kunal,Paneer Wrap,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,75,0.1,202.5,54.0
+ORD0294,2026-09-02,CUST029,Kunal,Veg Puff,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,25,0.1,90.0,22.0
+ORD0440,2026-09-02,CUST075,Yash,Cheese Roll,Bakery,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,45,0.15,153.0,36.0
+ORD0354,2026-09-04,CUST030,Tanya,Brownie Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,50,0.05,95.0,33.0
+ORD0083,2026-09-05,CUST037,Rahul,Cheese Roll,Bakery,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,3,45,0.05,128.25,40.5
+ORD0125,2026-09-05,CUST012,Meera,Masala Chai,Beverage,BrewRush,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,25,0.0,50.0,22.5
+ORD0322,2026-09-05,CUST047,Aarav,Fruit Bowl,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,65,0.15,55.25,9.75
+ORD0113,2026-09-08,CUST029,Vivaan,Veg Biryani Box,Meals,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,95,0.1,256.5,57.0
+ORD0195,2026-09-08,CUST017,Aisha,Masala Maggi,Food,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,50,0.1,135.0,39.0
+ORD0204,2026-09-08,CUST058,Isha,Brownie Cup,Dessert,SweetSpot,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,50,0.1,135.0,42.0
+ORD0341,2026-09-08,CUST012,Yash,Brownie Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,50,0.05,95.0,33.0
+ORD0346,2026-09-08,CUST043,Kabir,Iced Lemon Tea,Beverage,BrewRush,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,40,0.05,76.0,28.0
+ORD0231,2026-09-10,CUST031,Zoya,Sprouts Chaat,Healthy,FreshFuel,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,55,0.05,52.25,15.4
+ORD0337,2026-09-10,CUST064,Kabir,Ice Cream Cup,Dessert,SweetSpot,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,2,40,0.15,68.0,16.0
+ORD0482,2026-09-10,CUST041,Sana,Campus Sandwich,Food,CampusBite,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,1,55,0.1,49.5,15.4
+ORD0081,2026-09-11,CUST022,Yash,Sprouts Chaat,Healthy,FreshFuel,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,6,55,0.0,330.0,108.9
+ORD0027,2026-09-12,CUST018,Zoya,Paneer Rice Bowl,Meals,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,105,0.0,210.0,67.2
+ORD0189,2026-09-12,CUST078,Aarav,Fruit Bowl,Healthy,FreshFuel,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,4,65,0.05,247.0,65.0
+ORD0219,2026-09-12,CUST037,Sara,Cheese Roll,Bakery,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,3,45,0.0,135.0,47.25
+ORD0054,2026-09-13,CUST032,Tanya,Iced Lemon Tea,Beverage,BrewRush,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,40,0.1,36.0,12.0
+ORD0269,2026-09-13,CUST029,Zoya,Veg Biryani Box,Meals,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,4,95,0.0,380.0,114.0
+ORD0150,2026-09-14,CUST046,Tanya,Sprouts Chaat,Healthy,FreshFuel,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,55,0.0,110.0,36.3
+ORD0485,2026-09-14,CUST027,Aditya,Iced Lemon Tea,Beverage,BrewRush,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,40,0.15,68.0,20.0
+ORD0038,2026-09-15,CUST049,Kabir,Iced Lemon Tea,Beverage,BrewRush,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,40,0.1,72.0,24.0
+ORD0312,2026-09-15,CUST014,Kunal,Masala Maggi,Food,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,1,50,0.1,45.0,13.0
+ORD0272,2026-09-16,CUST055,Mira,Cheese Fries,Snacks,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,70,0.0,210.0,77.7
+ORD0301,2026-09-16,CUST060,Aisha,Iced Lemon Tea,Beverage,BrewRush,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,3,40,0.15,102.0,30.0
+ORD0434,2026-09-16,CUST049,Rahul,Cheese Fries,Snacks,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,2,70,0.0,140.0,51.8
+ORD0132,2026-09-17,CUST070,Sara,Campus Sandwich,Food,CampusBite,Library Café,South Mumbai,Mumbai,18.9988,72.8258,4,55,0.1,198.0,61.6
+ORD0406,2026-09-20,CUST003,Isha,Cold Coffee,Beverage,BrewRush,Sports Ground Stall,Western Mumbai,Mumbai,19.1197,72.8468,3,60,0.15,153.0,48.6
+ORD0063,2026-09-21,CUST071,Kabir,Masala Maggi,Food,SnackLab,Library Café,South Mumbai,Mumbai,18.9988,72.8258,4,50,0.0,200.0,72.0
+ORD0075,2026-09-21,CUST050,Sana,Brownie Cup,Dessert,SweetSpot,Library Café,South Mumbai,Mumbai,18.9988,72.8258,2,50,0.0,100.0,38.0
+ORD0469,2026-09-21,CUST055,Riya,Cheese Roll,Bakery,SnackLab,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,3,45,0.05,128.25,40.5
+ORD0126,2026-09-22,CUST050,Rehan,Veg Biryani Box,Meals,CampusBite,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,95,0.0,190.0,57.0
+ORD0029,2026-09-24,CUST049,Riya,Brownie Cup,Dessert,SweetSpot,Science Block Café,Central Mumbai,Mumbai,19.0178,72.856,2,50,0.15,85.0,23.0
+ORD0366,2026-09-24,CUST024,Aarav,Veg Biryani Box,Meals,CampusBite,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,6,95,0.0,570.0,171.0
+ORD0014,2026-09-25,CUST043,Rehan,Sprouts Chaat,Healthy,FreshFuel,L.U.J Main Campus,South Mumbai,Mumbai,19.0176,72.8562,2,55,0.0,110.0,36.3
+ORD0087,2026-09-25,CUST006,Meera,Cheese Fries,Snacks,SnackLab,Tech Lab Café,Western Mumbai,Mumbai,19.1075,72.837,1,70,0.1,63.0,18.9
+ORD0372,2026-09-25,CUST077,Arjun,Cheese Roll,Bakery,SnackLab,Hostel Food Court,Eastern Mumbai,Mumbai,19.0728,72.8826,6,45,0.0,270.0,94.5
